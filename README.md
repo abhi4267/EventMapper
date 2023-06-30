@@ -85,6 +85,6 @@ NODE_ENV=development
 This project is created as a practice to showcase my skills. However this is my first MERN project, I intend to add more features further. Please give it a star and suggest improvements.
 
 ## Author
-* LinkedIn: [@Abhishek Singh][(https://www.linkedin.com/in/abhishek-singh-b46994202/)]
+* LinkedIn: [@Abhishek Singh](https://www.linkedin.com/in/abhishek-singh-b46994202/)
 * Email: [@abhishek](mailto:abhisheksingh90627@gmail.com)
 * Github: [@abhishek](https://github.com/abhi4267)
